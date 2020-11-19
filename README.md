@@ -1,5 +1,5 @@
 # Personal-Projects
-Purpose of this project is to demonstrate some Derivative Pricing Models and Value at Risk Models implemented on Python notebook.
+Purpose of this project is to demonstrate some Derivative Pricing Models and Value at Risk Models implemented on Python notebook along with code comments and background.
 
 These are:
 1) Random Forest & Support Vector Machine based Model for prediction of Long/Short trades on Nifty along with becktesting results.
