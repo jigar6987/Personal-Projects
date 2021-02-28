@@ -13,3 +13,4 @@ These are:
 - Portfolio Optimization using MPT
 - Simple Single Factor Libor Market Model
 
+Reference: Options,Futures and Other Derivatives - John C. Hull
