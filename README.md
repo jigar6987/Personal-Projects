@@ -3,6 +3,7 @@ Purpose of this project is to demonstrate some Derivative Pricing Models and Val
 
 These are:
 - Binomial Trees Model for American/European Option Valuations with unlimited tree steps.
+- Barrier Option Valuation with greeks using Analytical solution.
 - Random Forest & Support Vector Machine based Model for prediction of Long/Short trades on Nifty along with becktesting results.
 - Black-Scholes Option pricing Model with greeks
 - Option Pricing using Monte-Carlo Simulation
